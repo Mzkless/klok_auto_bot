@@ -14,6 +14,8 @@
 - 支持随机从题库中抽取 10 个问题自动提交对话。
 - 提供失败重试机制（最多 3 次）。
 
+- 本地打码参考https://github.com/0xsongsu/cf-clearance-scraper 自行部署，非常简单！！
+
 
 # ✅ 环境要求  
 - Node.js >= 20  
