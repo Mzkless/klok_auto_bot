@@ -28,7 +28,7 @@
 克隆仓库：
 
 ```bash
-[git clone https://github.com/Mzkless/klok_auto_bot.git]
+git clone https://github.com/Mzkless/klok_auto_bot.git
 cd klok_auto_ask_bot
 ```
 
