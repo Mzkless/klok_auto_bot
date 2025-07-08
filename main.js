@@ -1,6 +1,6 @@
 const fs = require('fs/promises');
 const axios = require('axios');
-const Web3 = require('web3');
+const { Web3 } = require('web3');
 const { HttpsProxyAgent } = require('https-proxy-agent');
 const { v4: uuidv4 } = require('uuid');
 
